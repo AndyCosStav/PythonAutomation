@@ -1,0 +1,3 @@
+# PythonAutomation
+
+Just a simple Python program that automates boring data entry in an excel spreadsheet. No practical use but a fun bit o' python practice. The use case here is correcting errors a spreadsheet and printing the revised values next to the old ones....
